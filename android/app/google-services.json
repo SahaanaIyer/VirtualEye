@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935944313858",
+    "project_id": "hearvu-80197",
+    "storage_bucket": "hearvu-80197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935944313858:android:21b8749374c60f7f57db1b",
+        "android_client_info": {
+          "package_name": "com.hearvu.hearvu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935944313858-ve7p5q8bm7kepedlmggl53c8no45n7nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3mc_iO6dTT5knlt94wwlkvKmypg7CeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935944313858-ve7p5q8bm7kepedlmggl53c8no45n7nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
